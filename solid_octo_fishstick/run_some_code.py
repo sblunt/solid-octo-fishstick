@@ -1,3 +1,2 @@
-import numpy as np
-
-print("hi there")
+def run_a_function():
+    print("hi there")
